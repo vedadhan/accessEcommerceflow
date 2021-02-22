@@ -1,0 +1,30 @@
+.removebutton{
+    display: flex;
+    margin-top: -20px;
+}
+
+.CheckoutProduct{
+    display: flex;
+
+}
+
+.CheckoutProductImage{
+    padding-top: 10px;
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
+.CheckoutProductInfo{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.CheckoutProductInfo > button{
+    border: 1px solid black;
+}
+
+.CheckoutProductInfoTitle {
+    font-size: medium;
+    font-weight: 800;
+}

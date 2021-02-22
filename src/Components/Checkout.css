@@ -1,0 +1,11 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    height: max-content;
+}
+
+
+.checkoutright{
+    margin-left: 750px ;
+    
+}

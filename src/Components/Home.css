@@ -1,0 +1,10 @@
+.homerow{
+    display: flex;
+    z-index: 1;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.buttonalign {
+    text-align: center;
+}

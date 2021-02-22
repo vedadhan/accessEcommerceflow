@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.headernav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headeroption{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.headeroptionOne{
+    font-size: small;
+}
+
+.headeroptionTwo{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.basket{
+    display: flex;
+}
+
+.basketCount{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.headersearch{
+    display: flex;
+    flex: 1; 
+}
+
+.headerlink{
+    color: white;
+    text-decoration: none;
+}
+
+.headersearchInput{
+    margin-left: 10px;
+    border: none;
+    width: 100%;
+}
